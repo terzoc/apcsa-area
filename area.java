@@ -49,7 +49,7 @@ public class area {
     }
 
 
-    System.out.printf("\nArea: %.2f\n", area);
+    System.out.printf("\nArea: %,.2f\n", area);
 
     in.close();
   }
